@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Agnish Sahu.
-- 👀 I’m interested in coding and development.
+- 👋 Hi, I’m Agnish!
+- 🌱 I’m a web developer passionate about building interactive web apps and tools.
+- 💻 My expertise includes HTML, CSS, JavaScript, and React.
+- 🔭 Currently exploring new JavaScript frameworks and working on personal projects like password generators, weather apps, and games.
+- 📫 Feel free to reach out to collaborate or discuss ideas via [LinkedIn](https://www.linkedin.com/in/agnish-sahu-6149a4243/)!
 
 
 <!---
